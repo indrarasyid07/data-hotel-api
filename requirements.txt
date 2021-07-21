@@ -1,0 +1,8 @@
+gunicorn
+flask
+bs4
+selenium
+csv
+io
+pandas
+mysql.connector
